@@ -71,8 +71,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://canewsin.github.io/'
-  relativeLinks: 'http://canewsin.github.io/links.jsonp'
+  siteurl: 'https://canewsin.github.io/canewstest.github.io/'
+  relativeLinks: 'https://canewsin.github.io/canewstest.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
